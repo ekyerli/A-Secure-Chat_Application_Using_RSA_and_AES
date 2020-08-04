@@ -1,1 +1,1 @@
-# A-Secure-Chat_Application_Using_RSA_and_AES
+# For a better understanding, you can review the report.pdf file
